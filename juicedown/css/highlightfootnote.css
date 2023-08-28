@@ -1,0 +1,5 @@
+:target {
+    background: #ccc;
+    border: solid 1px #aaa;
+    transition: all .8s;
+}
