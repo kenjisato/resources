@@ -1,0 +1,12 @@
+.anki-marker {
+  background-color: yellow;
+  padding: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+  border: 1px solid slateblue;
+  cursor: pointer;
+}
+.anki-marker .anki-text {
+  color: blue;
+  opacity: 0;
+}
